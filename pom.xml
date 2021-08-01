@@ -45,6 +45,15 @@
             <url>https://repo.spring.io/snapshot</url>
         </pluginRepository>
     </pluginRepositories>
+    <modules>
+        <module>library-web</module>
+        <module>library-application</module>
+        <module>library-domain</module>
+        <module>library-external</module>
+        <module>library-messaging</module>
+        <module>library-types</module>
+        <module>library-start</module>
+    </modules>
 
     <dependencies>
         <dependency>
